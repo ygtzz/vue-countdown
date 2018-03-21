@@ -10,13 +10,13 @@ yarn add vue-countdown2
 
 ### QuickStart
 ```javascript
-require('vue-countdown/dist/vue-countdown.css');
+require('vue-countdown2/dist/vue-countdown.css');
 
 // in ES6 modules
-import { countdown } from 'vue-countdown';
+import { countdown } from 'vue-countdown2';
 
 // in CommonJS
-const { countdown } = require('vue-countdown');
+const { countdown } = require('vue-countdown2');
 
 // in Global variable
 const { countdown } = VueCountdown;
